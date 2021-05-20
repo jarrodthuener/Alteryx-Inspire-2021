@@ -7,6 +7,8 @@ I spoke fast and covered a ton of information, but all of it is being made avail
 My username is "Jarrod"
 
 
+Make sure to take the survey for this and any other sessions you attended this year: https://reg.rainfocus.com/flow/alteryx/inspire21/surveys/page/surveys
+
 # Weekly Challenges
 
 https://community.alteryx.com/t5/Weekly-Challenge/bd-p/weeklychallenge
